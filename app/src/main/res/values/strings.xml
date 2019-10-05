@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleTelnetClientV11</string>
+    <string name="edit_text_envio">Envio</string>
+    <string name="button_send">Send</string>
+    <string name="toggle_button">Connect</string>
+    <string name="toggle_conectar">Conectar</string>
+    <string name="toggle_desconectar">Desconectar</string>
+    />
+</resources>
